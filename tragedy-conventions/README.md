@@ -156,8 +156,8 @@ If you use this code in your research, please cite:
   title={The Tragedy of Social Coordination},
   author={[Authors anonymized for review]},
   journal={[Under review]},
-  year={2025},
-  note={Code available at [repository URL]}
+  year={2026},
+  note={Code available at https://github.com/PhilosophyResearcher/tragedy-conventions/tree/main}
 }
 ```
 
