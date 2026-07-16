@@ -1,0 +1,8 @@
+# tragedy-of-conventions finite-population scaling
+# x0=0.15, theta=0.4, a=2.0, c=0.3, s=1.0, trials=2500
+# N,independent,interdependent
+25,0.11720,0.03480
+50,0.13240,0.02080
+75,0.11040,0.01200
+100,0.12440,0.00600
+150,0.12200,0.00160
